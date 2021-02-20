@@ -279,8 +279,8 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  branch = "master"
-  local_backend = false
+  branch = "main"
+  local_backend = true
 
 ############################
 ## Icon Pack Extensions
