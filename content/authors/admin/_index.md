@@ -14,7 +14,7 @@ organizations:
   url: https://www.kew.org/science/our-science/people/tarciso-leao
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroecology and extinction risk of tropical plants.
+bio: My research interests include macroecology and conservation of plants
 
 # Interests to show in About widget
 interests:
@@ -83,4 +83,4 @@ highlight_name: true
 
 Tarciso Leão is a research fellow at the Royal Botanic Gardens, Kew.
 
-## This page is under construction, please disregard the template stuff  
+# This page is under construction, please disregard the template stuff! Cheers : wink : 
