@@ -11,7 +11,7 @@ role: Conservation Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Kew Gardens
-  url: https://www.kew.org/
+  url: https://www.kew.org/science/our-science/people/tarciso-leao
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroecology and extinction risk of tropical plants.
