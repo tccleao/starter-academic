@@ -12,7 +12,7 @@
   name = "Scratch Notes"
   url = "#posts"
   weight = 20
-  font_size = "S"
+  font_size = "L"
 
 # [[main]]
 #   name = "Projects"
