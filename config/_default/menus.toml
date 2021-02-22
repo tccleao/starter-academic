@@ -8,11 +8,10 @@
 #   url = "#about"
 #   weight = 10
 
-[[main]]
-  name = "Scratch Notes"
-  url = "#posts"
-  weight = 20
-  font_size = "L"
+# [[main]]
+#   name = "Scratch Notes"
+#   url = "#posts"
+#   weight = 20
 
 # [[main]]
 #   name = "Projects"
