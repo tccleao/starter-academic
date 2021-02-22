@@ -54,9 +54,9 @@ social:
 - icon: flickr
   icon_pack: fab
   link: https://www.flickr.com/photos/tarcisoleao/
-- icon: inaturalist
-  icon_pack: ai
-  link: https://www.inaturalist.org/observations/leot
+#- icon: inaturalist
+#  icon_pack: ai
+#  link: https://www.inaturalist.org/observations/leot
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/t.leaoo/
