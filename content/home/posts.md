@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Scratch Notes
+title: #Scratch Notes
 subtitle:
 
 content:
